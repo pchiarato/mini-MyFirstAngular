@@ -1,0 +1,89 @@
+
+
+*{
+    margin:0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+[ng\:cloak], [ng-cloak], [data-ng-cloak], [x-ng-cloak], .ng-cloak, .x-ng-cloak {
+  display: none !important;
+}
+
+.container {
+    width:90%;
+    margin: auto;
+
+}
+
+.content-div{
+        display: flex;
+    justify-content: center;
+    height:40vh;
+}
+
+
+h1{
+    color:dodgerblue;
+    text-align: center;
+    
+}
+li{
+    font-size: 1.2em;
+    color:gray;
+    padding-left: 60px;
+}
+
+.friend-container{
+    width:300px;
+    align-self: center;
+}
+
+.add-friends-container{
+    align-self: center;
+    width:300px;
+    
+    
+}
+.add-friends-input{
+    width:200px;
+    height:30px;
+}
+#add-friend-btn{
+    height:30px;
+    font-family: monospace;
+    font-size: 1em;
+    background: dodgerblue;
+    color:white;
+    padding: 4px;
+    font-weight: bold;
+    
+    
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
